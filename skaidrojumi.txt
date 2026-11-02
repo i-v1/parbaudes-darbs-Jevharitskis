@@ -1,0 +1,6 @@
+J1. Klusā kļūda
+Parbaudītu, lai visos mainīgos ir pareizi un vēlreiz palaižu kodu
+
+
+
+J2. Datnes kodējums
