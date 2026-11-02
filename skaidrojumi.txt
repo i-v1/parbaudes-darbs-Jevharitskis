@@ -1,5 +1,5 @@
   J1. Klusā kļūda
-Skripts palaižas bez kļūdas un izvada desmit servisus. Tomēr atbilde nesakrīt ar to, ko tu
+###Skripts palaižas bez kļūdas un izvada desmit servisus. Tomēr atbilde nesakrīt ar to, ko tu
 gaidīji. Kā tu to pamanītu un ko pārbaudītu vispirms?
 
 Parbaudītu, lai visos mainīgos ir pareizi un vēlreiz palaižu kodu
@@ -8,7 +8,7 @@ un  check if skript pareizi take dates from file,un vai darbojas filtrācija
 
 
   J2. Datnes kodējums
-Audzēknis uzrakstīja CSV atskaiti. Atverot to Excel, latviešu burti ir kārtībā, bet visas
+###Audzēknis uzrakstīja CSV atskaiti. Atverot to Excel, latviešu burti ir kārtībā, bet visas
 kolonnas ir salipušas vienā. Nosauc cēloni un labojumu
 
 Varbut, lai uzlabot kolonnas jāizmanto pareizo kolonnu dalītaju ";" lai Excel to divide pēc kolonnas
